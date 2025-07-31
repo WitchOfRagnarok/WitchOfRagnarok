@@ -27,6 +27,8 @@
 
 - <b>Althea v0.1</b>
 
+- <b>AWT v1.0</b>
+
 
 <h2> 🧩 I’m currently learning :</h2>
 
