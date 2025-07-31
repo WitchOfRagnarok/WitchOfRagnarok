@@ -18,7 +18,7 @@
   - [Althea — A Modular, Local AI Assistant for My Homelab](https://github.com/WitchOfRagnarok/Althea_AI-Assistent)
   
 - <b>Automatic Plant Watering</b>
-  - [Automatic Watering with Rasberry PI Project](https://github.com/WitchOfRagnarok/Automatic_Watering_with_Rasberry_PI_Project)
+  - [Project AWT – Autonomous Watering Terminal [v1.0]](https://github.com/WitchOfRagnarok/Project_AWT-_Autonomous_Watering_Terminal_v1.0)
  
  
 <h2> 🛠️ I’m currently working on :</h2>
